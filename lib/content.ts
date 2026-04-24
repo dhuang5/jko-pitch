@@ -206,6 +206,14 @@ export const contact = {
 
 export const themes = [
   {
+    slug: "opus",
+    name: "Opus",
+    subtitle: "Editorial × Farbe · Gestural · Sexy",
+    description:
+      "Magazin-Typografie auf Creme, mit gemalten Pinsel-Highlights in Gelb, Rot und Blau. Sophisticated, aber mit Puls.",
+    palette: ["#F4EDDE", "#F7C800", "#E23A2F"],
+  },
+  {
     slug: "editorial",
     name: "Editorial",
     subtitle: "Magazin · Serif · Kultiviert",
