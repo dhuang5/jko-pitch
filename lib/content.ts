@@ -206,6 +206,14 @@ export const contact = {
 
 export const themes = [
   {
+    slug: "affiche",
+    name: "Affiche",
+    subtitle: "Poster · Script · Paper",
+    description:
+      "Konzertplakat als Webseite: kondensierte rote Display-Type trifft blaue Brush-Script, Papier-Grain, runde Foto-Stempel mit umlaufender Schrift.",
+    palette: ["#F4EDDE", "#E23A2F", "#1F49B8"],
+  },
+  {
     slug: "opus",
     name: "Opus",
     subtitle: "Editorial × Farbe · Gestural · Sexy",
