@@ -222,6 +222,14 @@ export const themes = [
     palette: ["#F4EDDE", "#F7C800", "#E23A2F"],
   },
   {
+    slug: "opus-grau",
+    name: "Opus Grau",
+    subtitle: "Opus auf neutralem Grau · Ruhiger",
+    description:
+      "Dieselbe Editorial-Haltung wie Opus, aber auf hellgrauem Papier. Die Pinsel-Akzente in Gelb, Rot und Blau wirken klarer, das Bild kühler und professioneller.",
+    palette: ["#ECECEA", "#F7C800", "#1F49B8"],
+  },
+  {
     slug: "editorial",
     name: "Editorial",
     subtitle: "Magazin · Serif · Kultiviert",

@@ -10,6 +10,9 @@ const previewImages: Record<string, string> = {
   noir: images.aerial,
   bauhaus: images.courtyard,
   aurora: images.church,
+  opus: images.courtyard,
+  affiche: images.church,
+  "opus-grau": images.aerial,
 };
 
 export default function Landing() {
